@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ejemplo.unity
+- path: C:/Users/Omar/Documents/CUARTO/Interfaces Inteligentes/proyectoFinal/Proyectofinal/Assets/Proyectofinal.unity
   isLoaded: 1
   isActive: 1
